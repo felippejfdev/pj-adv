@@ -69,7 +69,7 @@ button {
 }
 .show{
     opacity: 1;
-    transition: all 2s;
+    transition: all 3s;
     filter: blur(0);
     transform: translateX(0);
 }
